@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  FFCViewController.h
 //  FFAnimation
 //
 //  Created by 张玲玉 on 2017/2/9.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface FFCViewController : UIViewController
 
 @end
-

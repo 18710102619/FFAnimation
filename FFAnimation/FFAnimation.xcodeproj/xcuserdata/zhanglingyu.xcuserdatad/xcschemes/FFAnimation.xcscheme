@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "365186DD1E4D5F2D00757750"
+               BlueprintIdentifier = "36D4BCA71E4C0AC2002C7141"
                BuildableName = "FFAnimation.app"
                BlueprintName = "FFAnimation"
                ReferencedContainer = "container:FFAnimation.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "365186F61E4D5F2D00757750"
+               BlueprintIdentifier = "36D4BCC01E4C0AC2002C7141"
                BuildableName = "FFAnimationTests.xctest"
                BlueprintName = "FFAnimationTests"
                ReferencedContainer = "container:FFAnimation.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "365187011E4D5F2D00757750"
+               BlueprintIdentifier = "36D4BCCB1E4C0AC2002C7141"
                BuildableName = "FFAnimationUITests.xctest"
                BlueprintName = "FFAnimationUITests"
                ReferencedContainer = "container:FFAnimation.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "365186DD1E4D5F2D00757750"
+            BlueprintIdentifier = "36D4BCA71E4C0AC2002C7141"
             BuildableName = "FFAnimation.app"
             BlueprintName = "FFAnimation"
             ReferencedContainer = "container:FFAnimation.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "365186DD1E4D5F2D00757750"
+            BlueprintIdentifier = "36D4BCA71E4C0AC2002C7141"
             BuildableName = "FFAnimation.app"
             BlueprintName = "FFAnimation"
             ReferencedContainer = "container:FFAnimation.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "365186DD1E4D5F2D00757750"
+            BlueprintIdentifier = "36D4BCA71E4C0AC2002C7141"
             BuildableName = "FFAnimation.app"
             BlueprintName = "FFAnimation"
             ReferencedContainer = "container:FFAnimation.xcodeproj">

@@ -2,11 +2,12 @@
 //  AppDelegate.m
 //  FFAnimation
 //
-//  Created by 张玲玉 on 2017/2/10.
+//  Created by 张玲玉 on 2017/2/9.
 //  Copyright © 2017年 bj.zly.com. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "FFRootViewController.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,13 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    FFRootViewController *root = [[FFRootViewController alloc] init];
+    UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:root];
+    self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    self.window.rootViewController = navi;
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 
